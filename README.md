@@ -1,7 +1,7 @@
 <div>
 	<a href="https://github.com/joseorestes">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseorestes&theme=radical&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseorestes&layout=compact&theme=radical&langs_count=8">
+	<img height="170em" src="https://github-readme-stats.vercel.app/api?username=joseorestes&theme=radical&show_icons=true">
+  	<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseorestes&layout=compact&theme=radical&langs_count=8">
 </div>
 
 ### Hi there 👋
